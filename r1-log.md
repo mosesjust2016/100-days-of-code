@@ -22,5 +22,5 @@ Implemented a geolocation functionality using https://api.opencagedata.com API i
 ### R1D6
 Created a  weather app that calls https://api.openweathermap.org API . The app is in HTML, CSS and JavaScript 
 
-### R1D6
+### R1D7
 Created an App that check if a user has internet connection. The app is in HTML, CSS and JavaScript 
