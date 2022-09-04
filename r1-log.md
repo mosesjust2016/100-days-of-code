@@ -24,3 +24,15 @@ Created a  weather app that calls https://api.openweathermap.org API . The app i
 
 ### R1D7
 Created an App that check if a user has internet connection. The app is in HTML, CSS and JavaScript 
+
+### R1D8
+Created an Adblocker Checker
+Adblocker block the flowing classes ad, ads, ad-banner, ad-box, ad-badge. I haveve created an element and added these classes in it and check what this element is returning. If AdBlocker is enabled then it willl return display: none
+
+### R1D9
+Created an Meal API app
+Get a random meal. This application call a web API www.themealdb.com/api/json/v1/1/random.php. You click a button the it will bring up meal, place of origin , ingredients ansd how to prepare it. if the youtube video is readily available it will bring it up
+
+### R1D10
+Created an app that consumes MovieDB API
+Making use of moviedb API to build a simple movie app that shows a list of movie titles and images.
