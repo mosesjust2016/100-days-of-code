@@ -36,3 +36,6 @@ Get a random meal. This application call a web API www.themealdb.com/api/json/v1
 ### R1D10
 Created an app that consumes MovieDB API
 Making use of moviedb API to build a simple movie app that shows a list of movie titles and images.
+
+### R1D11
+Making use of GitHub API to build an app that displays the profile of a GitHub user when you type their name or username. 
