@@ -39,3 +39,6 @@ Making use of moviedb API to build a simple movie app that shows a list of movie
 
 ### R1D11
 Making use of GitHub API to build an app that displays the profile of a GitHub user when you type their name or username. 
+
+### R1D12
+To show random quotes, I used a free API named quotable https://quotable.io/random using the quotable API I fetched the random quotes and showed them on the Quote App. With speech functionality and twitter share button
